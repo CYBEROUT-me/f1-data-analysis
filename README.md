@@ -87,4 +87,8 @@ jupyter notebook notebooks/analysis.ipynb
 
 ## Дашборд Tableau Public
 
-Посилання: _буде додано після публікації_. Інструкція з побудови – у [`tableau/README.md`](tableau/README.md).
+**[Формула-1: 76 сезонів у цифрах (1950–2025)](https://public.tableau.com/app/profile/oleksander.yukhno/viz/F11950-2025-1/-17619502025)** – 5 аркушів
+(ключові показники, карта гонок за країнами, частка сходів по роках, топ-10 команд, частка перемог за стартом),
+фільтри за роками й країною, клік по карті фільтрує решту графіків. Опис – у [`tableau/README.md`](tableau/README.md).
+
+![Дашборд Tableau Public](tableau/dashboard.png)
