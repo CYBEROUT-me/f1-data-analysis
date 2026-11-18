@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+~$*
+data/raw/f1db-csv.zip
